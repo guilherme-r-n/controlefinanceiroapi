@@ -10,12 +10,12 @@ public class GestaoDeClientesApplication {
 		ClientePessoaFisicaEntity cliente1 = new ClientePessoaFisicaEntity();
 		ClientePessoaFisicaService cadCliente = new ClientePessoaFisicaService();
 
-		cliente1.setId((long) 5);
-		cliente1.setNome("Patrick Mahomes");
-		cliente1.setCpf("11250015260");
-		cliente1.setEmail("pmahomes@gmail.com");
-		cliente1.setTelefone("064999878833");
-		cliente1.setEndereco("Avenida dos Pampas Qd 10 Lt 05, Leontino");
+		cliente1.setId((long) 6);
+		cliente1.setNome("Aparecida Conceição");
+		cliente1.setCpf("03788514721");
+		cliente1.setEmail("aparecidacsr@gmail.com");
+		cliente1.setTelefone("064992748896");
+		cliente1.setEndereco("Rua 21 Qd 11 Lt 15, Vila Cardoso");
 		cliente1.setCidade("Mineiros");
 		cliente1.setEstado("Goiás");
 
